@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9cee13f0-be93-0445-253b-854163f90743"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "European Politics",
+  "course_description": "This course examines similarities and differences in politics and political economy in Britain, Germany, Denmark, and Sweden. In particular, the course focuses on the structure of political power within the state, and on important institutions that form the link between state and society, especially political parties and interest organizations.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.561",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
